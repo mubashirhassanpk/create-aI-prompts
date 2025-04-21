@@ -1,6 +1,14 @@
 # Generate better prompts in the developer console
 https://www.anthropic.com/news/prompt-generator
 
+😒 The 3 Major Problems with Creating AI Prompts
+
+When it comes to creating prompts using ChatGPT, Claude, or any large language model, we're going to come across three major problems:
+
+1. Staring at a blank page or just a blank prompt box. This is time-wasting.
+2. Time-consuming tweaking.
+3. Inconsistent results that waste your time and energy.
+
 ## Solution #1: Using Anthropic's Console
 
 Our first solution for creating amazing prompts uses Anthropic's console and built-in AI prompt generator. Here's how:
